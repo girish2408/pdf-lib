@@ -1,0 +1,12 @@
+{
+  "name": "my-pdf-lib-project",
+  "version": "1.0.0",
+  "description": "A project to create PDFs with text and input fields using pdf-lib",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.16.0"
+  }
+}

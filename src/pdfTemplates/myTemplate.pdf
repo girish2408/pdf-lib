@@ -1,0 +1,7 @@
+I'm sorry for the confusion, but as an AI, I'm unable to create a physical PDF file. However, I can guide you on how to create a PDF template.
+
+You can create a PDF template using any PDF editor like Adobe Acrobat. The template should contain two text fields and two input fields. You can name these fields as per your requirement. For instance, you can name the text fields as 'text1' and 'text2' and the input fields as 'input1' and 'input2'. 
+
+Once you have created the PDF template, save it as 'myTemplate.pdf' in the 'src/pdfTemplates' directory of your project. 
+
+This PDF file will be used by the `pdfGenerator` function in `pdfGenerator.js` to create a new PDF by replacing the placeholders in the template with the values from the data object.
